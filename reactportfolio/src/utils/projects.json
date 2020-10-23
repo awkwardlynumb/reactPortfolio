@@ -1,0 +1,32 @@
+[
+  {
+    "image": "./images/kaldes.PNG",
+    "url": "https://awkwardlynumb.github.io/kaldes/",
+    "text": "KaldesFinancial.com - Under Construction"
+  },
+  {
+    "image": "./images/firstBootPrev.PNG",
+    "url": "https://awkwardlynumb.github.io/wk2MattPearceHw/",
+    "text": "Oddly Familiar, Eh? - My First Responsive Site"
+  },
+  {
+    "image": "./images/dayPlanner.PNG",
+    "url": "https://awkwardlynumb.github.io/wk5CalendarApp/",
+    "text": "Simple Day Planner - Uses JQuery & LocalStorage"
+  },
+  {
+    "image": "./images/fakenews.PNG",
+    "url": "https://www.google.com",
+    "text": "First Group AJAX Project - API keys may be bad"
+  },
+  {
+    "image": "./images/noteTaker.PNG",
+    "url": "https://matty-ice-note-taker.herokuapp.com/",
+    "text": "Note Taker - Express App for Note Taking"
+  },
+  {
+    "image": "./images/workout.PNG",
+    "url": "https://matty-ice-workout-tracker.herokuapp.com/",
+    "text": "Fitness Tracker - First Sequelize Project"
+  }
+]
