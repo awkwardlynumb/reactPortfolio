@@ -2,7 +2,7 @@
   {
     "image": "./images/kaldes.PNG",
     "url": "https://awkwardlynumb.github.io/kaldes/",
-    "text": "KaldesFinancial.com - Under Construction"
+    "text": "KaldesFinancial.com (Pro) - Under Construction"
   },
   {
     "image": "./images/firstBootPrev.PNG",
@@ -27,6 +27,6 @@
   {
     "image": "./images/workout.PNG",
     "url": "https://matty-ice-workout-tracker.herokuapp.com/",
-    "text": "Fitness Tracker - First Sequelize Project"
+    "text": "Fitness Tracker - First MongoDB Project"
   }
 ]

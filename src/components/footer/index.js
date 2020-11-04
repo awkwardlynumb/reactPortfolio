@@ -9,7 +9,7 @@ function Footer() {
           <h5>Media:</h5>
           <ul>
             <li>
-              <a href="https://www.linkedin.com/in/matthew-pearce-33aaa21a6/">
+              <a href="https://www.linkedin.com/in/awkwardlynumb/">
                 LinkdIn
               </a>
             </li>
@@ -39,4 +39,4 @@ function Footer() {
   );
 }
 
-export default Portfolio;
+export default Footer;

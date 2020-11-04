@@ -13,7 +13,7 @@ function About() {
                     </div>
                     <div className="row bioBody">
                         <div className="col-md-6">
-                            <img className="handsome img-fluid" src="igCover.jpg" alt="selfie"/>
+                            <img className="handsome img-fluid" src="./images/igCover.jpg" alt="selfie"/>
                         </div>
                         <div className="col-md-6">
                             <p>Welcome to the first ever mobile-friendly responsive playground of Matt Pearce: frequently panicked programming student at the University of Arizona's Coding Bootcamp.</p>
